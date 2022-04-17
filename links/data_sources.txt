@@ -1,2 +1,3 @@
 https://www.cs.cmu.edu/~mleone/gdead/setlists.html
+https://www.cs.cmu.edu/~mleone/gdead/faq/archives.html
 https://github.com/jefmsmit/gdshowsdb
